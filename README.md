@@ -1,1 +1,3 @@
 # dolphin
+
+print "Hello world!"
